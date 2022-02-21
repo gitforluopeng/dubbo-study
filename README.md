@@ -1,2 +1,2 @@
 # dubbo-study
-for low level dubbo study
+to low level dubbo study
